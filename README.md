@@ -5,7 +5,7 @@
 
 Sitio Web comercial Fátima Escobedo
 Organización de eventos.
-**[View Live Preview](https://www.facebook.com/fatimaescobedo.events/)**
+**[View facebook](https://www.facebook.com/fatimaescobedo.events/)**
 
 ## Preview
 
